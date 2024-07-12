@@ -4,7 +4,7 @@
 
 To view the macros using a specific browser, select it and use "Open With" and select the browser
 
-To add the macro to one of the macros in you HP forums settings page
+To add the macro to one of the macros in your HP forums settings page
 
 1 - Right click the macro and open using notepad
 
